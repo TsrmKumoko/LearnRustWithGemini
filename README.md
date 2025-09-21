@@ -184,10 +184,6 @@ let spaces = "   ";
 let spaces = spaces.len(); // 从 &str 类型变为 usize 类型
 ```
 
-## Rust 基础 (Basics)
-
-基础部分涵盖了 Rust 的核心概念，是你学习这门语言的基石。
-
 ### 3. 函数 (Functions)
 
 在 Rust 中，函数是执行特定任务的代码块。你已经见过一个最重要的函数：`main` 函数，它是很多程序的入口点。
